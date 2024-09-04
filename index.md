@@ -10,3 +10,10 @@ Now, I will add a code example
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+Task list!
+
+- [x] Image is added.
+- [x] Code example is exist.
+- [ ] This item is not complete.
